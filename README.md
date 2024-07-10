@@ -15,13 +15,17 @@ Contact: Get in touch with me through a contact form or via social media links.
 Responsive Design: Optimized for both desktop and mobile devices.
 🎨 Screenshots
 
-Home Page
+Home Page 
+![font](https://github.com/alwaysajaykr18/EazyByts_Project_portfolio/assets/172900370/b3c465b4-2e23-40c7-9d88-a3ecdbd36aba)
 
 
-Projects Page
+Projects Page 
+![middle](https://github.com/alwaysajaykr18/EazyByts_Project_portfolio/assets/172900370/de382400-24d1-49c8-afcb-f3fff16507cb)
 
 
-Contact Page
+
+Contact Page 
+![end](https://github.com/alwaysajaykr18/EazyByts_Project_portfolio/assets/172900370/1d86753d-b9c7-42f8-9c4b-b0cf3a6f0acd)
 
 🛠️ Installation
 To get this project up and running locally on your machine, follow these simple steps:
@@ -75,5 +79,5 @@ Inspired by various online resources and tutorials on web development.
 Feel free to reach out if you have any questions or suggestions:
 
 Email: ajaynayak2531@example.com
-GitHub: alwayajaykr8
+GitHub: alwayajaykr18
 Twitter: @alwaysajaykr18
